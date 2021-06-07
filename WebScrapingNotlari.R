@@ -9,7 +9,7 @@
 #read_html(), html_nodes(), html_text(), html_attr()
 
 #Veri düzenleme ile ilgili kütüphalere ait fonksiyonlar hakkında temel bilgiler
-#Özellikle string ifadeler ile nasıl çalışır? REGEX bilgisi!
+#Özellikle string ifadeler ile nasıl çalışır? REGEX (Regular Expressions) bilgisi!
 #str_trim(), word(), str_match()
 #mutate(), rename(), na.omit(), bind_rows()
 #gsub(), grepl(), seq(), length(), as.numeric(), as.character(), paste0(), print(), Sys.sleep(), data.frame(), as.data.frame()

@@ -12,7 +12,7 @@
 #Özellikle string ifadeler ile nasıl çalışır? REGEX bilgisi!
 #str_trim(), word(), str_match()
 #mutate(), rename(), na.omit()
-#gsub(), grepl(), seq(), as.numeric(), paste0(), print(), Sys.sleep(), as.data.frame()
+#gsub(), grepl(), seq(), as.numeric(), paste0(), print(), Sys.sleep(), data.frame(), as.data.frame()
 
 #for() döngüsü, tryCatch(), ifelse() nasıl çalışır?
 
